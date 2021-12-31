@@ -16,6 +16,7 @@ test用streamlitです。
 11. `$ heroku create`を実行する。
 12. `$ git push heroku master`を実行する。
 13. `$ heroku open`を実行する。
+14. heroku openで記載される、URLへアクセスする。実行結果と同じ内容が返されるか確認する。
 
 ## 実行結果
 <img width="1680" alt="screenshot 2021-12-31 9 27 01" src="https://user-images.githubusercontent.com/23373288/147796304-4b9fda59-eb43-45a8-ad4b-61c72bad14f5.png">
