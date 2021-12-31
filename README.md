@@ -22,3 +22,4 @@ test用streamlitです。
 
 ## 参考文献
 - https://note.nkmk.me/python-pip-install-requirements/
+- https://qiita.com/tomowarkar/items/f41f778b6ae003d9a027
